@@ -16,3 +16,5 @@ export const react = [
     link: 'https://www.youtube.com/watch?v=4UZrsTqkcW4',
   },
 ];
+
+export const vue = [];

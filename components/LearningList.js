@@ -1,4 +1,11 @@
 export default function LearningList({ items }) {
+  if (items.length === 0) {
+    return (
+      <div className='h-28 border-2 border-black rounded flex justify-center items-center'>
+        <h2>Coming soon...</h2>
+      </div>
+    );
+  }
   return (
     <>
       {items.map((item) => (
