@@ -1,3 +1,5 @@
+Create full-stack app with Next.js??? A small project to see the possibilities and learn more about next/api routes.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
